@@ -2,9 +2,6 @@ table {
   border-collapse: collapse;
   width: auto;
 }
-th{
-  vertical-align: middle;
-}
 td,th {
   height: 40px
   text-align: center;
