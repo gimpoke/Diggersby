@@ -1,6 +1,7 @@
 table {
   border-collapse: collapse;
-  width: auto;
+  width: 40%;
+  display: table-header-group;
 }
 td,th {
   height: 40px
